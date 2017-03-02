@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1487360499 source:c:\users\vadim\desktop\projects (2)\oib 8 2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<Windows.h>
+
