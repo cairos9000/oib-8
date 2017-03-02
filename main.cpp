@@ -18,6 +18,8 @@ int main()
 {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
+    char *text;
+    char replacment[32];
     while(1)
     {
         char answer[N];
